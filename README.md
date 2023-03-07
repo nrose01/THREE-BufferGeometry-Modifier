@@ -1,6 +1,5 @@
 # THREE-BufferGeometry-Modifier
-A library for manipulating THREE JS Buffer geometry
-Manipulate vertices and geometry groups
+A library for manipulating THREE JS Buffer geometry vertices and geometry groups
 
 # Use
 ```JavaScript
